@@ -1,4 +1,4 @@
-# Data-and-Code-
+# Data-and-Code-A2
 This is my A2 project 
 To access this you need to click on the link below. 
 Once you have opened the link, a controll device will appear with a game introductory title screen. Click on the (A) button on the right hand side of the controll to start the game.  
